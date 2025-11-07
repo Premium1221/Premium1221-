@@ -69,14 +69,6 @@ Full-stack reservation management system with real-time notifications and role-b
 
 ---
 
-## 📊 GitHub Stats
-
-![Ivaylo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Premium1221&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Premium1221&layout=compact&theme=radical&hide_border=true)
-
----
-
 ## 🌱 What I'm Currently Working On
 
 - 🤖 Exploring advanced RAG architectures and LLM fine-tuning
