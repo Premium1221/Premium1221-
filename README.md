@@ -40,7 +40,7 @@ I'm a 4th semester Software Engineering student at **Fontys University of Applie
 
 ## 🔥 Featured Projects
 
-### 🤖 [RAG-based Legal Document Assistant](https://github.com/Premium1221/RAG-Legal-Assistant)
+### 🤖 [RAG-based Legal Document Assistant](https://github.com/Premium1221/dutch-tenancy-rag-app.git)
 **Python | LangChain | OpenAI API | ChromaDB | Streamlit**
 
 Built a Retrieval-Augmented Generation system for querying Dutch tenancy law documents with context-aware AI responses.
