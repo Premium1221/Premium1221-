@@ -1,6 +1,6 @@
 # Hi there, I'm Ivaylo Slavov 👋
 
-## 🚀 Software Engineering Student | Generative AI Specialist
+## 🚀 Software Engineering Student Specializing in Generative AI
 
 I'm a 4th semester Software Engineering student at **Fontys University of Applied Sciences**, specializing in **Generative AI** and passionate about building intelligent automation solutions, chatbots, and AI-driven systems that solve real-world problems.
 
