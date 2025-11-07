@@ -71,10 +71,10 @@ Full-stack reservation management system with real-time notifications and role-b
 
 ## 🌱 What I'm Currently Working On
 
-- 🤖 Exploring advanced RAG architectures and LLM fine-tuning
-- 🔨 Building AI automation tools for business workflows
-- 📚 Deepening knowledge in prompt engineering and AI agents
-- 💼 Seeking Generative AI internship opportunities
+- 🤖 Learning advanced RAG architectures and exploring LLM capabilities
+- 📚 Building GenAI projects to strengthen my practical AI development skills
+- 🔨 Studying prompt engineering and AI agent frameworks
+- 💼 Seeking Generative AI internship to apply my knowledge in real-world project
 
 ---
 
